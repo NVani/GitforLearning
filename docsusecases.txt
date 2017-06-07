@@ -1,3 +1,0 @@
-This is devlop lunittest cases for dev teliam
-this is place dev team write unit test case and merge to feature branchl
-
