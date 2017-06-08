@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+This is dev teams unit test case details
+after that will checkin to git.
+=======
 Hello
+>>>>>>> 6e097f6ee28b033e85bc7587d78f11b27f3e787c
